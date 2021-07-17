@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kangxxnn.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-17T12:57:28.851Z</updated>
+    <updated>2021-07-17T13:50:57.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kangxxnn.github.io"/>
     <link rel="self" href="https://kangxxnn.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://kangxxnn.github.io/images/avatar.png</logo>
     <icon>https://kangxxnn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://kangxxnn.github.io/post/test/</id>
+        <link href="https://kangxxnn.github.io/post/test/">
+        </link>
+        <updated>2021-07-17T13:49:56.000Z</updated>
+        <content type="html"><![CDATA[<p>这里测试能否将写好的内容同步到博客上😊</p>
+]]></content>
+    </entry>
 </feed>
